@@ -1,5 +1,7 @@
 # ESA XR Hackathon
 
+![ESA XR Hackathon](../Thumbnailv2.png)
+
 Welcome to the official GitHub workspace for the **ESA XR Hackathon**! 🚀
 
 This is the place where your team will **work, collaborate and submit your project** during the hackathon.
@@ -23,5 +25,3 @@ Make sure you follow the required repository structure, documentation and submis
 For general information, challenges and hackathon details, visit the **[ESA XR Hackathon website](https://xr.esa.int/hackathon/)**.
 
 **Build, experiment, collaborate and show us what XR can bring to space**
-
-The ESA XR Team
